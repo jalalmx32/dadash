@@ -1,0 +1,9 @@
+{
+  "name": "https://t.me/infernvpn",
+  "total_gb": "unlimited",
+  "used_gb": 0,
+  "expire": "unlimited",
+  "configs": [
+    {"name": "نمونه", "url": "vless://UUID@example.com:443?encryption=none&security=tls&type=ws#sample"}
+  ]
+}
