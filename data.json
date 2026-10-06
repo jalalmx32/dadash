@@ -4,7 +4,21 @@
   "used_gb": 0,
   "expire": "unlimited",
   "configs": [
-    {"name": "نمونه", "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@node-373268320-e58127.thatsmes-7b13.workers.dev:443?encryption=none&security=tls&sni=NOdE-373268320-E58127.thATsmES-7b13.WorkErS.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2FN9Cm0GvLFHDtrvWDCnXAiIyiJvLWAnb3Fed%3Fed%3D2560#%40infernvpn
-"}
+    {
+      "name": "@Infern 1 - Workers",
+      "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@node-373268320-e58127.thatsmes-7b13.workers.dev:443?encryption=none&security=tls&sni=NOdE-373268320-E58127.thATsmES-7b13.WorkErS.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2FN9Cm0GvLFHDtrvWDCnXAiIyiJvLWAnb3Fed%3Fed%3D2560#%40infernvpn"
+    },
+    {
+      "name": "@Infern 2 - 172.67.142.99",
+      "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@172.67.142.99:443?encryption=none&security=tls&sni=NODe-373268320-e58127.THatSMES-7b13.wORkeRs.dev&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2FEE8alCXpaefdbVujVSiUOKgt%3Fed%3D2560#%40infernvpn"
+    },
+    {
+      "name": "@Infern 3 - 104.21.79.54",
+      "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@104.21.79.54:443?encryption=none&security=tls&sni=NoDe-373268320-E58127.thaTsMes-7B13.WOrkers.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2FuLAedu1anMeMlMsmigRhU0HVzoe%3Fed%3D2560#%40infernvpn"
+    },
+    {
+      "name": "@Infern 4 - Speedtest",
+      "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@www.speedtest.net:443?encryption=none&security=tls&sni=NOde-373268320-E58127.THATsMES-7B13.woRkerS.dev&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2Fyt3JIPpCJReWPRpYHDQ2%3Fed%3D2560#%40infernvpn"
+    }
   ]
 }
