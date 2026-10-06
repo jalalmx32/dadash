@@ -1,7 +1,7 @@
 {
   "name": "https://t.me/infernvpn",
   "total_gb": "unlimited",
-  "used_gb": 0,
+  "used_gb": 27,
   "expire": "unlimited",
   "configs": [
     {
@@ -45,7 +45,11 @@
       "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@104.21.79.54:443?encryption=none&security=tls&sni=NoDe-373268320-E58127.thaTsMes-7B13.WOrkers.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2FuLAedu1anMeMlMsmigRhU0HVzoe%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "Infern 11 - Speedtest",
+      "name": "Infern 11 - 104.21.79.54",
+      "url": "vless://17909549-1859-4faa-b1d4-09e516a6d954@188.114.96.2:8443?encryption=none&security=tls&sni=sErvICE-9c627e-31154D.X8HgdS-d1Ff.WORKers.dEV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=service-9c627e-31154d.x8hgds-d1ff.workers.dev&path=%2Fvl%2FMKMTx7WoanAf3g0yqoCwTJBFYRt%3Fed%3D2560#infernvpn"
+    },
+    {
+      "name": "Infern 12 - Speedtest",
       "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@www.speedtest.net:443?encryption=none&security=tls&sni=NOde-373268320-E58127.THATsMES-7B13.woRkerS.dev&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2Fyt3JIPpCJReWPRpYHDQ2%3Fed%3D2560#%40infernvpn"
     }
   ]
