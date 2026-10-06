@@ -13,39 +13,39 @@
       "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@172.67.142.99:443?encryption=none&security=tls&sni=NODe-373268320-e58127.THatSMES-7b13.wORkeRs.dev&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2FEE8alCXpaefdbVujVSiUOKgt%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "VLESS 1 - Workers",
+      "name": "Infern 3 - Workers",
       "url": "vless://7f273ee6-21ac-4ff1-aa5b-140f0eee2093@core-391492-501aaa.thatsmes-7b13.workers.dev:443?encryption=none&security=tls&sni=COrE-391492-501AAa.THAtsMes-7b13.WoRKerS.Dev&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=core-391492-501aaa.thatsmes-7b13.workers.dev&path=%2Fvl%2FyWBDtW05LnoRPAG2XKw63Hanwe9%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "VLESS 2 - 172.67.142.99",
+      "name": "Infern 4 - 172.67.142.99",
       "url": "vless://7f273ee6-21ac-4ff1-aa5b-140f0eee2093@172.67.142.99:443?encryption=none&security=tls&sni=cOrE-391492-501Aaa.THatSmeS-7B13.WOrKERS.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=core-391492-501aaa.thatsmes-7b13.workers.dev&path=%2Fvl%2FGJA7C3DrCU5zX3QNtUsiogyzH27BONbM%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "VLESS 3 - 104.21.79.54",
+      "name": "Infern 5 - 104.21.79.54",
       "url": "vless://7f273ee6-21ac-4ff1-aa5b-140f0eee2093@104.21.79.54:443?encryption=none&security=tls&sni=core-391492-501aAa.tHaTSmes-7B13.wORKeRs.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=core-391492-501aaa.thatsmes-7b13.workers.dev&path=%2Fvl%2Fado4rDVkT3shhxO8XPBmNr24BfykkXx2%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "VLESS 4 - Speedtest",
+      "name": "Infern 6 - Speedtest",
       "url": "vless://7f273ee6-21ac-4ff1-aa5b-140f0eee2093@www.speedtest.net:443?encryption=none&security=tls&sni=CORe-391492-501aAa.tHAtSmeS-7b13.WORkERS.dEV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=core-391492-501aaa.thatsmes-7b13.workers.dev&path=%2Fvl%2FYvsxjufbCdPi7ghijJ%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "Trojan 1 - 172.67.142.99",
+      "name": "Infern 7 - 172.67.142.99",
       "url": "trojan://_3H5wdNuPWCoXCKN@172.67.142.99:443?security=tls&sni=cOrE-391492-501Aaa.THatSmeS-7B13.wOrKERS.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=core-391492-501aaa.thatsmes-7b13.workers.dev&path=%2Ftr%2FVpKGw9lJ5kqCwlgo%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "Trojan 2 - 104.21.79.54",
+      "name": "Infern 8 - 104.21.79.54",
       "url": "trojan://_3H5wdNuPWCoXCKN@104.21.79.54:443?security=tls&sni=core-391492-501aAa.tHaTSmes-7B13.wORKeRs.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=core-391492-501aaa.thatsmes-7b13.workers.dev&path=%2Ftr%2FO70owyyz157U5RIQQe%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "Trojan 3 - Speedtest",
+      "name": "Infern 9 - Speedtest",
       "url": "trojan://_3H5wdNuPWCoXCKN@www.speedtest.net:443?security=tls&sni=CORe-391492-501aAa.tHAtSmeS-7b13.WORkERS.dEV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=core-391492-501aaa.thatsmes-7b13.workers.dev&path=%2Ftr%2F582zIWDEzbW2Q6btgXphcHo27Z6hs2jz%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "Infern 3 - 104.21.79.54",
+      "name": "Infern 10 - 104.21.79.54",
       "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@104.21.79.54:443?encryption=none&security=tls&sni=NoDe-373268320-E58127.thaTsMes-7B13.WOrkers.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2FuLAedu1anMeMlMsmigRhU0HVzoe%3Fed%3D2560#%40infernvpn"
     },
     {
-      "name": "Infern 4 - Speedtest",
+      "name": "Infern 11 - Speedtest",
       "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@www.speedtest.net:443?encryption=none&security=tls&sni=NOde-373268320-E58127.THATsMES-7B13.woRkerS.dev&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2Fyt3JIPpCJReWPRpYHDQ2%3Fed%3D2560#%40infernvpn"
     }
   ]
