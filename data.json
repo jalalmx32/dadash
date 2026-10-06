@@ -1,7 +1,7 @@
 {
   "name": "https://t.me/infernvpn",
   "total_gb": "unlimited",
-  "used_gb": ,
+  "used_gb": 0,
   "expire": "unlimited",
   "configs": [
     {
