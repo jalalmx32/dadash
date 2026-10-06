@@ -46,7 +46,7 @@
     },
     {
       "name": "Infern 11 - 104.21.79.54",
-      "url": "vless://17909549-1859-4faa-b1d4-09e516a6d954@188.114.96.2:8443?encryption=none&security=tls&sni=sErvICE-9c627e-31154D.X8HgdS-d1Ff.WORKers.dEV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=service-9c627e-31154d.x8hgds-d1ff.workers.dev&path=%2Fvl%2FMKMTx7WoanAf3g0yqoCwTJBFYRt%3Fed%3D2560#infernvpn"
+      "url": "vless://17909549-1859-4faa-b1d4-09e516a6d954@188.114.96.2:8443?encryption=none&security=tls&sni=sErvICE-9c627e-31154D.X8HgdS-d1Ff.WORKers.dEV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=service-9c627e-31154d.x8hgds-d1ff.workers.dev&path=%2Fvl%2FMKMTx7WoanAf3g0yqoCwTJBFYRt%3Fed%3D2560#%40infernvpn"
     },
     {
       "name": "Infern 12 - Speedtest",
