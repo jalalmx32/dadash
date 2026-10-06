@@ -4,6 +4,7 @@
   "used_gb": 0,
   "expire": "unlimited",
   "configs": [
-    {"name": "نمونه", "url": "vless://UUID@example.com:443?encryption=none&security=tls&type=ws#sample"}
+    {"name": "نمونه", "url": "vless://5c163081-d04d-4f43-ade3-e5504743cc93@node-373268320-e58127.thatsmes-7b13.workers.dev:443?encryption=none&security=tls&sni=NOdE-373268320-E58127.thATsmES-7b13.WorkErS.deV&fp=chrome&alpn=http%2F1.1&ech=cloudflare-ech.com%2Budp%3A%2F%2F1.1.1.1&type=ws&host=node-373268320-e58127.thatsmes-7b13.workers.dev&path=%2Fvl%2FN9Cm0GvLFHDtrvWDCnXAiIyiJvLWAnb3Fed%3Fed%3D2560#%40infernvpn
+"}
   ]
 }
